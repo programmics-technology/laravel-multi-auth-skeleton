@@ -1,4 +1,4 @@
-# Laravel Multi Auth 3U Skeleton (User, Admin Setup)
+# Laravel Multi Auth Skeleton (User, Admin Setup)
 
 This skelton comes with basic user auth setup with some packages & those are.
 
